@@ -301,6 +301,9 @@ textarea{
 .box-immagine{
     display:none;
 }
+.scheda-centrata{
+        width: 100%;
+    }
 
 
 }
