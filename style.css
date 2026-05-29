@@ -9,6 +9,7 @@ body{
     font-family:Poppins,sans-serif;
     background:#f4f7fb;
     color:#222;
+    scrollbar-width: none;
 }
 
 /* MENU */
